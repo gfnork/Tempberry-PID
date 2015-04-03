@@ -1,0 +1,27 @@
+{
+  "name": "schnapsberry",
+  "version": "0.1.0",
+  "description": "controls temperature via heater",
+  "keywords": [
+    "jojo"
+  ],
+  "authors": [
+    "wieth"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies":{
+    "bootstrap":"*",
+    "jquery":"*",
+    "jquery-flot":"*",
+    "angular":"1.2.x",
+    "angular-route":"~1.2.x",
+    "angular-flot":"*"
+  }
+}
